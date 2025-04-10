@@ -1,0 +1,5 @@
+{
+    "verify_token": "your_verify_token",
+    "token": "your_whatsapp_api_token",
+    "phone_number_id": "your_phone_number_id"
+}
